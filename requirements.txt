@@ -1,3 +1,6 @@
 datasets
 nltk
 transformers
+mmh3
+bitarray
+StringIO
