@@ -4,3 +4,5 @@ transformers
 mmh3
 bitarray
 StringIO
+gensim
+numpy==1.26.4
